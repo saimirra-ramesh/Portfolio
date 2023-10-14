@@ -339,8 +339,8 @@ export const projects = [
       "Javascript",
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/saimirra-ramesh/Portfolio",
+    webapp: "https://portfolio-bice-five-15.vercel.app/",
   },
   {
     id: 4,
